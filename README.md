@@ -36,4 +36,4 @@ streamlit run app.py
 
 A web page will open in your browser at **localhost:8501**
 
-You can enter the details of your event and enter ```Confirm```. Then, you can download the **.csv** file containing the best guest list to invite recommended for your specific event.
+You can enter the details of your event, the number of clients you would like to invite, and enter ```Confirm```. Then, you can download the **.csv** file containing the best guest list to invite recommended for your specific event.
